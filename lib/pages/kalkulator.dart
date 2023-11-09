@@ -73,7 +73,7 @@ class Calculator extends State<Calc> {
                 style: TextStyle(color: Colors.white,
                   fontSize: 16,
                 ),
-              ),
+              ), 
             ),
             SizedBox(
                 height:
